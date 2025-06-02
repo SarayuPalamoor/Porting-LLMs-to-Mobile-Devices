@@ -1,0 +1,7 @@
+{
+  "title": "Meeting",
+  "description": "Schedule a meeting",
+  "start_time": "2025-05-31 19:00",
+  "end_time": "2025-05-31 20:00"
+}
+
